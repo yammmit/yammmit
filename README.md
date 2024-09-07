@@ -1,9 +1,9 @@
 # Open Source Software Practice Page
 ---
-**SEOULTECH Computer Science and Engineering**  
-Yerin Lee  
+>**SEOULTECH Computer Science and Engineering**  
+>Yerin Lee  
 ---
-### USE  
+#### USE  
 - Git  
 - Github  
 - Markdown
