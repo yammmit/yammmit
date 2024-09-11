@@ -42,6 +42,5 @@
 
 <div align="left">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yammmit_
-  oss&show_icons=true&theme=panda)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yammmit&show_icons=true&theme=panda)
 </div>
