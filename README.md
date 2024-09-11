@@ -38,7 +38,6 @@
 
 <h3 align="left">Please feel free to reach out to me! 💬</h3>
 <div align="left">
-  <a href="https://velog.io/@codingfrog"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@codingsnail"/></a>&nbsp
   <a href="mailto:rin17ring@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=5132jinyu@gmail.com"/></a>
   <br>
   <br>
