@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=40&pause=1000&color=8ABD4B&background=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Open+source+software+practice+page)](https://git.io/typing-svg)
 </div>
-
+---
 <h3 align="left">🥨 Profile 🥨</h3>
 <div align="left">
 🌱 SEOULTECH Department of Computer Science and Engineering 3nd Grade <br>
