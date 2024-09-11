@@ -1,12 +1,15 @@
-### Hi there 👋
+<div>
 
-<h3 align="left">Profile</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=40&pause=1000&color=8ABD4B&background=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Open+source+software+practice+page)](https://git.io/typing-svg)
+</div>
+
+<h3 align="left">🥨 Profile 🥨</h3>
 <div align="left">
-🌱 SEOULTECH Computer Science and Engineering 3nd Grade <br>
+🌱 SEOULTECH Department of Computer Science and Engineering 3nd Grade <br>
 </div>
 
 
-<h3 align="left">Studying</h3>
+<h3 align="left">📚 Studying 📚</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge"/></a>&nbsp
@@ -19,7 +22,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
 </div>
 
-<h3 align="left">Tools</h3>
+<h3 align="left">⚙️ Tools ⚙️</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -33,7 +36,7 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
-<h3 align="left">Please feel free to reach out to me!</h3>
+<h3 align="left">Please feel free to reach out to me! 💬</h3>
 <div align="left">
   <a href="https://velog.io/@codingfrog"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@codingsnail"/></a>&nbsp
   <a href="mailto:rin17ring@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=5132jinyu@gmail.com"/></a>
