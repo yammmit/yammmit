@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge"/>
 </div>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
