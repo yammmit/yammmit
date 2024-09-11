@@ -6,7 +6,7 @@
 </div>
 
 
-<h3 align="left">Tech stack</h3>
+<h3 align="left">Studying</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge"/></a>&nbsp
@@ -42,6 +42,13 @@
 </div>
 
 <div align="left">
-  
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yammmit&show_icons=true&theme=panda)
+
+</div>
+
+<div align="left">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yammmit)](https://github.com/yammmit/github-readme-stats)
+
 </div>
